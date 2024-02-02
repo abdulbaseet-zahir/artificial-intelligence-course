@@ -24,4 +24,4 @@ Enhancing the course material by adding more details and examples to the noteboo
 Suggesting alternative methods or tools for presenting the content more effectively
 Contributing any other ideas or resources that you think would benefit the course and the learners
 
-If you are interested in collaborating with me on this course, please let [me](abdulbasit.zahir@outlook.com) know.
+If you are interested in collaborating with me on this course, please let [me](mailto:abdulbasit.zahir@outlook.com) know.
